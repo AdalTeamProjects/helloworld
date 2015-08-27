@@ -10,6 +10,7 @@ namespace WindowsFormsApplication1
         public static void Hello()
         {
             Console.WriteLine("Hello");
+            Console.WriteLine("Ola!");
         }
     }
 }
